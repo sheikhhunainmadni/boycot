@@ -1,0 +1,22 @@
+cmd me ja kr (node -v)
+os ke bad (npm -v) type krna he
+ phr (npm install -g firebase-tools) ye type krna he
+ phr (firebase -v) ye type kr na he agr ye unknown option de
+ to phr (firebase --versionye) type krna he or ye krne se version pata lag jaega 
+os ke bad (vs code) me ja kr ctrl + tabe ka uper button daba na he 
+gr cmd me na ho to (select default shelf)  pr click kr na he
+phr  cammand ka option select krna he or vs code se bahir ajana he phr dobara 
+vs code open kr na he to sid m cmd likha wa ajae ga 
+phr (firebase login )likhna he agr pehle se login heto logout krna he phr login krna he
+phr (firebase init) likhna he 
+
+
+username github: sheikhhunainmadni 
+new gmail :sheikhhunainmadni@gmail.com
+porana wala he
+
+
+
+
+
+sheikhhunainsheikh

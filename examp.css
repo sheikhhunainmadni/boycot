@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid black;
+    width: 100%;
+}
+.nav{
+    
+}
+li{
+    display: inline;
+    float: right;
+}
+img{
+    width: 250px;
+}
